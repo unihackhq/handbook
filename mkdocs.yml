@@ -1,0 +1,12 @@
+site_name: UNIHACK Handbook
+pages:
+  - Home:
+    - 'UNIHACK Competitor Booklet': 'index.md'
+    - 'About WIRED Monash': 'wired.md'
+  - Event Information:
+    - 'Participant Information': 'event-info/participants.md'
+    - 'Schedule': 'event-info/schedule.md'
+    - 'Venue': 'event-info/venue.md'
+  - 'Code of Conduct': 'code-of-conduct.md'
+  - 'Emergency Contact': 'emergency.md'
+theme: readthedocs
