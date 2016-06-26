@@ -1,6 +1,6 @@
 ## Arrival
 
-All participants should aim to arrive between 12:00pm and 12:30pm on Saturday
+All participants should aim to arrive between 9:00am and 10:00am on Saturday
 July 30. This allows us to get you registered and collect some cool swag from
 our sponsors.
 

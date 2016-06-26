@@ -7,6 +7,9 @@ pages:
     - 'Participant Information': 'event-info/participants.md'
     - 'Schedule': 'event-info/schedule.md'
     - 'Venue': 'event-info/venue.md'
+  - Judging and Submission:
+      - 'How to Submit': 'judging/submission.md'
+      - 'Judging Criteria': 'judging/judging-criteria.md'
   - 'Code of Conduct': 'code-of-conduct.md'
   - 'Emergency Contact': 'emergency.md'
 theme: readthedocs
