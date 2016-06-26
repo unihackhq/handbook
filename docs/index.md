@@ -2,10 +2,6 @@
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
-## Contents
-
-
-
 ## Disclaimer
 
 You are currently reading **v1.0.0** of the UNIHACK Competitor Handbook.
@@ -15,3 +11,5 @@ may affect the format of the competition - such as, but not limited to,
 clarifying any ambiguous sections in this document. You will be notified of any
 major changes to the document, but it is up to you to ensure you read the
 handbook to follow any rules.
+
+## Quick Find

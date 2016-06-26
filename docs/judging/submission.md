@@ -7,9 +7,9 @@ by one of the organisers if your project is not on DevPost beforehand.
 In addition to details about your project and how you built it, you must also
 provide the following:
 
-- A list of all third-party material and APIs (for example, if you used
-  Bootstrap and Uber's API).
-- A link to your repository
+- A list of all third-party material and APIs, including anything that was
+  purchased.
+- A link to your repository (as per [Rule 3](../basic-rules.md#rule-3))
 - Images and/or screenshots of your project
 
 If you have created a web app, you are free to submit a link to a live working
@@ -40,3 +40,5 @@ congested.
 ## How to submit via DevPost
 
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/PThK3n9M_d0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+*If you are unable to see the video, please click [here](https://www.youtube.com/watch?v=PThK3n9M_d0).*

@@ -2,14 +2,18 @@ site_name: UNIHACK Handbook
 pages:
   - Home:
     - 'UNIHACK Competitor Booklet': 'index.md'
-    - 'About WIRED Monash': 'wired.md'
+    - 'Basic Rules': 'basic-rules.md'
   - Event Information:
     - 'Participant Information': 'event-info/participants.md'
     - 'Schedule': 'event-info/schedule.md'
+    - 'Tech Talks': 'event-info/tech-talks.md'
     - 'Venue': 'event-info/venue.md'
+  - Other Events:
+    - 'Mixer Night (July 26)': 'mixer-night.md'
   - Judging and Submission:
       - 'How to Submit': 'judging/submission.md'
       - 'Judging Criteria': 'judging/judging-criteria.md'
-  - 'Code of Conduct': 'code-of-conduct.md'
-  - 'Emergency Contact': 'emergency.md'
+  - Safety:
+    - 'Code of Conduct': 'code-of-conduct.md'
+    - 'Emergency Contact': 'emergency.md'
 theme: readthedocs

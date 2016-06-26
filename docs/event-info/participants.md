@@ -8,6 +8,14 @@ There will also be a mini Careers Fair, where you can ask questions from some
 of our sponsors about any upcoming internship or graduate programs they may
 have.
 
+## Team Sizes
+As per [Rule 1](../basic-rules.md), each team can have up to four members.
+However, we will be strongly encouraging teams of three and four in order to
+have Presentation Day run smoothly.
+
+If you are in a team of one or two, you will be asked to merge into another team
+or add another member. We will **not** be asking teams to break up.
+
 ## BYO Food and Drink
 
 You are free to bring your own food and drink to the event (e.g. Red Bull or
