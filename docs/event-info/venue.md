@@ -1,3 +1,5 @@
+![LAB-14](../img/location-lab14-alt.jpg "LAB-14")
+
 This year's competition will be held at LAB-14, which is located at:
 
 700 Swanston Street  

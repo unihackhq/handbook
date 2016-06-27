@@ -1,4 +1,4 @@
-Like last year, we require all teams to post their submission on DevPost.
+Like last year, we require all teams to post their submission on DevPost. Our DevPost site can be found at [http://unihack2016.devpost.com/](http://unihack2016.devpost.com/).
 
 You must submit your project on DevPost by **3:30pm** on Sunday July 31.
 Otherwise, your project will not be considered for judging. You will be notified
@@ -23,6 +23,12 @@ this is optional and not required.
 This video must be a no-frills video - that is, no fancy graphics and animations
 - and does not exceed two minutes. We highly encourage you use your iPhone or
 Android smartphone to record the video.
+
+Below is an example of a no-frills video from last year by the [Codebreaker](http://devpost.com/software/codebreaker) team.
+
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/PZnDymonCJw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+*If you are unable to see the video, please click [here](https://www.youtube.com/watch?v=PZnDymonCJw).*
 
 We also strongly encourage you keep the video up after the event. This will
 help us for marketing and promotion of future UNIHACK competitions.

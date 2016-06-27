@@ -8,7 +8,15 @@ There will also be a mini Careers Fair, where you can ask questions from some
 of our sponsors about any upcoming internship or graduate programs they may
 have.
 
+## Ownership of Code and Assets
+
+Any intellectual property (e.g. code, images, audio) that you and/or your team
+create during UNIHACK 2016 belongs to you. We may use your project to assist us
+with marketing in future years, but we will always seek to permission from you
+and/or your team in order to do so. 
+
 ## Team Sizes
+
 As per [Rule 1](../basic-rules.md), each team can have up to four members.
 However, we will be strongly encouraging teams of three and four in order to
 have Presentation Day run smoothly.

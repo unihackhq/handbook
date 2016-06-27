@@ -3,6 +3,7 @@ pages:
   - Home:
     - 'UNIHACK Competitor Booklet': 'index.md'
     - 'Basic Rules': 'basic-rules.md'
+    - 'Free Stuff': 'free-stuff.md'
   - Event Information:
     - 'Participant Information': 'event-info/participants.md'
     - 'Schedule': 'event-info/schedule.md'
@@ -14,6 +15,6 @@ pages:
       - 'How to Submit': 'judging/submission.md'
       - 'Judging Criteria': 'judging/judging-criteria.md'
   - Safety:
-    - 'Code of Conduct': 'code-of-conduct.md'
-    - 'Emergency Contact': 'emergency.md'
+    - 'Code of Conduct': 'safety/code-of-conduct.md'
+    - 'Emergency Contacts': 'safety/emergency.md'
 theme: readthedocs
