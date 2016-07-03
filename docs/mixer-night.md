@@ -1,4 +1,4 @@
-![Mixer Night](../img/mixernight-head.jpg)
+![Mixer Night](img/mixernight-head.jpg)
 
 This year, for the first time, we are introducing a Mixer Night on July 26.
 
