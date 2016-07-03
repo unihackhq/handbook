@@ -9,6 +9,8 @@ pages:
     - 'Schedule': 'event-info/schedule.md'
     - 'Tech Talks': 'event-info/tech-talks.md'
     - 'Venue': 'event-info/venue.md'
+  - APIs and Hardware:
+    - 'Hardware': 'api/hardware.md'
   - Other Events:
     - 'Mixer Night (July 26)': 'mixer-night.md'
   - Judging and Submission:

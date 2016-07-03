@@ -1,10 +1,15 @@
-This year, we are introducing a **Mixer Night** on July 26.
+![Mixer Night](../img/mixernight-head.jpg)
 
-The event will feature some tech talks from experts will help you when creating your prototype at UNIHACK. It will also be the first opportunity to connect with mentors to test out your ideas and get feedback from them *before* the competition.
+This year, for the first time, we are introducing a Mixer Night on July 26.
 
-We ask that each team send at least **one** representative to the event. There will also be an opportunity for people to find team members - so if you are looking, then we highly suggest you attend!
+The Mixer Night will feature industry experts presenting talks that will prep you before the main event and ensure you and your team are ready. Some mentors will make an appearance to help you fine-tune your idea.
 
-The Mixer Night begins at 6:00pm on July 26. We ask that you RSVP immediately via this Google Form.
+This will also be an opportunity for people to find team members. So if you are looking, then we highly suggest you attend!
+
+The Mixer Night begins at 6:00pm on July 26. We ask that each team send at least
+one representative to the event, and that you RSVP before July 15 via this [Google Form](https://docs.google.com/forms/d/1aJBPvdur_WMKtMQNfPduOhoVV_XkXCjOWfYB7MLzEQc/viewform/)
+
+[Facebook Event Page](https://www.facebook.com/events/1640272519627347/)
 
 ## Location
 
