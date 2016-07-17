@@ -30,4 +30,31 @@ If you plan on driving into the city, the nearest and most affordable carpark wi
 
 ## Schedule
 
-The full schedule will be made available closer to the start of the event.
+Time    | Description
+------- | -----------
+6:00pm  | Doors Open
+6:30pm  | Mixer Night Introductions
+6:40pm  | Bosch Tech Talk (10 minutes)
+6:50pm  | ["How to be (More) Sure that You Really Have a Great Idea" (Wade Institute)](#wade)
+7:20pm  | Food and Networking
+8:00pm  | ["Smashing the lightbulb: Ideation, Pitching and MVP" (Computershare)](#computershare)
+8:30pm  | ["Bluemix in Action" (IBM)](#ibm)
+9:00pm  | More networking
+9:45pm  | Event ends
+
+## Talks
+
+<a name="wade"></a>
+**Wade Institute &mdash; How to be (More) Sure that You Really Have a Great Idea**
+
+Presented by Michael Vitale, an entrepreneur and teacher of entrepreneurship who has played a vital part in the Melbourne entrepreneurial and startup community for over two decades. His talk will help you make sure your idea impress this year's judges.
+
+<a name="computershare"></a>
+**Computershare &mdash; Smashing the lightbulb: Ideation, Pitching and MVP**
+
+Presented by Evan Giosis and Merlin Floyd, this talk will ensure you are fully prepared for UNIHACK - from getting that idea off the ground, what to build as your minimal viable product, and pitching that to the judges.
+
+<a name="ibm"></a>
+**IBM &mdash; Bluemix in Action**
+
+Have a great idea that could take out the top prize this year? Keen to get a head start? With Bluemix you can quickly and easily create and deploy apps with the necessary services to support them. Join us on Mixer Night to check out Bluemix in action with real life examples!
