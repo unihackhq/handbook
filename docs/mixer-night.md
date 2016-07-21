@@ -17,6 +17,8 @@ one representative to the event, and that you RSVP before July 15 via this [Goog
 395 Collins St  
 Melbourne VIC 3000
 
+NOTE: Please enter using the Queen Street entrance.
+
 *Click [here](https://goo.gl/maps/SNYfEvAcwKk) to see the location on Google
 Maps.*
 

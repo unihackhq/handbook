@@ -2,7 +2,7 @@
 
 Welcome to the UNIHACK Competitor Handbook. This handbook will contain everything you need to know about this year's competition - including schedule, submission process and safety information.
 
-You are currently reading **v1.0.1** of the UNIHACK Competitor Handbook.
+You are currently reading **v1.0.2** of the UNIHACK Competitor Handbook.
 
 You will be provided a printed version of the booklet on the day. However, some sections of the handbook will be found online only - such as information about hardware and APIs.
 

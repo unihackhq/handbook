@@ -23,4 +23,29 @@ Have a great idea that could take out the top prize this year? Keen to get a hea
 
 ## Talks on Saturday
 
+<a name="bosch"></a>
+**Bosch &mdash; TBA**
+
+TBA
+
+<a name="imc"></a>
+**IMC Pacific &mdash; Introduction to Git from IMC – free Raspberry Pi per team!**
+
+Source control is an oft-underestimated tool in the programmer’s toolbelt. This presentation will take you through the basics of source control management in a small team using Git, enabling you to save time and frustration over the impending 24-hour time-period. We’ll throw in a Raspberry Pi 3 with some useful tools preinstalled for each team.
+
+- Git high-level overview
+- Committing (local repo use)
+- Branches
+- Pushing / pulling (repo ‘cooperation’)
+- Merging
+- GitHub tips and tricks
+
+<a name="thoughtworks"></a>
+**Thoughtworks &mdash; TBA**
+
+TBA
+
+<a name="rea"></a>
+**REA Group &mdash; TBA**
+
 TBA
