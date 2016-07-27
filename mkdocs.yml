@@ -10,12 +10,14 @@ pages:
     - 'Tech Talks': 'event-info/tech-talks.md'
     - 'Venue': 'event-info/venue.md'
   - APIs and Hardware:
-    - 'Hardware': 'api/hardware.md'
+    - 'Hardware': 'hardware.md'
+    - 'APIs': 'api.md'
   - Other Events:
     - 'Mixer Night (July 26)': 'mixer-night.md'
-  - Judging and Submission:
-      - 'How to Submit': 'judging/submission.md'
-      - 'Judging Criteria': 'judging/judging-criteria.md'
+  - Judging:
+      - 'Judging Information': 'judging.md'
+  - Submission:
+      - 'How to Submit': 'submission.md'
   - Safety:
     - 'Code of Conduct': 'safety/code-of-conduct.md'
     - 'Emergency Contacts': 'safety/emergency.md'

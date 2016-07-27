@@ -4,7 +4,7 @@ All UNIHACK competitors must follow these Basic Rules when competing. Failure to
 
 Teams can have up to four people. Each member of a team must be a student studying at an undergraduate, honours, or postgraduate course at an accredited university; or studying at a recognised TAFE.
 
-*Please be aware that we will be trying to get people into teams of three or four. Read more [here](event-info/participants.md#team-sizes)*
+**NOTE:** we will be strongly encouraging teams of three and four in order to have Presentation Day run smoothly. If you are in a team of one or two, you will be asked to merge into another team or add another member. We will not be asking teams to break up.
 
 ### Rule 2
 
@@ -12,7 +12,7 @@ Teams have 24 hours to build a working prototype of your project. There are no r
 
 ### Rule 3
 
-Any code must be published in a repository that is publicly accessible. You are free to use whatever code repository service you want (e.g. GitHub or BitBucket).
+Any code must be published in a repository that is publicly accessible. You are free to use whatever code repository service you want (e.g. GitHub, BitBucket, GitLab).
 
 ### Rule 4
 
@@ -20,8 +20,8 @@ Teams must not work on existing projects during the event. Teams must also not c
 
 ### Rule 5
 
-Any third-party material used must be legally licensed and is available to the public to download or buy. You may purchase material, tools and equipment for the competition, but at your own expense. **You will not be reimbursed by UNIHACK or WIRED Monash**.
+Any third-party material used must be legally licensed and is available to the public to download or buy. You may purchase material, tools and equipment for the competition, but at your own expense. **You will not be reimbursed by UNIHACK or WIRED Monash for any purchases you made during the competition**.
 
 ### Rule 6
 
-You agree to follow the Code of Conduct and not act in an inappropriate manner. A copy the Code of Conduct is included. 
+You agree to follow the Code of Conduct and not act in an inappropriate manner. A copy the Code of Conduct is included.

@@ -1,28 +1,34 @@
-# The UNIHACK Competitor Handbook
+# UNIHACK 2016 Competitor Booklet
+
+Welcome to UNIHACK 2016 – Australia’s premier student hackathon, run for students by students.
+
+## About This Document
 
 Welcome to the UNIHACK Competitor Handbook. This handbook will contain everything you need to know about this year's competition - including schedule, submission process and safety information.
 
-You are currently reading **v1.0.2** of the UNIHACK Competitor Handbook.
+You are currently reading **v1.0.3** of the UNIHACK Competitor Handbook.
 
-You will be provided a printed version of the booklet on the day. However, some sections of the handbook will be found online only - such as information about hardware and APIs.
+You will be provided a printed version of the booklet on the day. While every effort has been made to ensure the printed and online versions are the same at the time of printing, changes do happen and you will be notified of any changes on the day. These changes will be found on the online version of the document.
 
-This organisers have the right to make changes to the Competitor Handbook that
-may affect the format of the competition - such as, but not limited to,
-clarifying any ambiguous sections in this document. You will be notified of any
-major changes to the document, but it is up to you to ensure you read the
-handbook to follow any rules.
+## Any Questions
+If you have any questions about UNIHACK, please feel free to go up and ask a volunteer. They will help you with most of your questions.
+
+Alternatively, feel free to send your query to the #qanda channel on Slack and one of the volunteers or organisers will be able to answer.
+
+## Grievances and Complaints
+If you need to message the organisers in private; wish to make a complaint about an individual or the event itself, please contact the organisers. We will be manning all of our communication channels – email, Facebook, Twitter or Slack. In addition, our contact numbers can be found on the back of this booklet.
+
+**If you have a compliant about an individual, you have the right to remain anonymous.**
 
 ## Quick Find
 
 - [Where can I find the Code of Conduct?](safety/code-of-conduct.md)
 
-- [I want to know more information about the Mixer Night on July 26.](mixer-night.md)
-
 - [What are the rules of UNIHACK?](basic-rules.md)
 
-- [What is the judging criteria for UNIHACK this year?](judging/judging-criteria.md)
+- [What is the judging criteria for UNIHACK this year?](judging/judging-info.md)
 
-- [How do I submit my project?](judging/submissions.md)
+- [How do I submit my project?](judging/submission.md)
 
 - [How do I get to the venue?](event-info/venue.md#how-do-i-get-there)
 

@@ -1,3 +1,17 @@
+## The Organisers
+
+**Hugo Muller-Downing**  
+0403 722 054
+
+**Terence Huynh**  
+0401 277 108
+
+**Sophia Huynh (grievance officer)**  
+0469 332 498
+
+**Lee Hatton (grievance officer)**  
+0432 943 491
+
 ## Hospital
 
 The nearest 24-hour emergency hospital from the venue is:

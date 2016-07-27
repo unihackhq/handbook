@@ -24,9 +24,9 @@ Have a great idea that could take out the top prize this year? Keen to get a hea
 ## Talks on Saturday
 
 <a name="bosch"></a>
-**Bosch &mdash; TBA**
+**Bosch &mdash; Building the commercial model around your idea**
 
-TBA
+Presented by Stephen Rudakov from Bosch who manages customer requests from idea to production. This presentation will show you how to quickly analyse if your idea has a viable commercial model based on the business model canvas approach.
 
 <a name="imc"></a>
 **IMC Pacific &mdash; Introduction to Git from IMC – free Raspberry Pi per team!**
@@ -41,11 +41,6 @@ Source control is an oft-underestimated tool in the programmer’s toolbelt. Thi
 - GitHub tips and tricks
 
 <a name="thoughtworks"></a>
-**Thoughtworks &mdash; TBA**
+**Thoughtworks &mdash; Test Driven Development**
 
-TBA
-
-<a name="rea"></a>
-**REA Group &mdash; TBA**
-
-TBA
+The ThoughtWorks Team we will be covering some of the uses and benefits of test driven development. There will be live coding where actual test driven development is demonstrated using real examples
