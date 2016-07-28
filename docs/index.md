@@ -6,7 +6,7 @@ Welcome to UNIHACK 2016 – Australia’s premier student hackathon, run for stu
 
 Welcome to the UNIHACK Competitor Handbook. This handbook will contain everything you need to know about this year's competition - including schedule, submission process and safety information.
 
-You are currently reading **v1.0.3** of the UNIHACK Competitor Handbook.
+You are currently reading **v1.0.4** of the UNIHACK Competitor Handbook.
 
 You will be provided a printed version of the booklet on the day. While every effort has been made to ensure the printed and online versions are the same at the time of printing, changes do happen and you will be notified of any changes on the day. These changes will be found on the online version of the document.
 

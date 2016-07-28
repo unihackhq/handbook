@@ -24,9 +24,9 @@ Have a great idea that could take out the top prize this year? Keen to get a hea
 ## Talks on Saturday
 
 <a name="bosch"></a>
-**Bosch &mdash; Building the commercial model around your idea**
+**Bosch &mdash; From concept to production**
 
-Presented by Stephen Rudakov from Bosch who manages customer requests from idea to production. This presentation will show you how to quickly analyse if your idea has a viable commercial model based on the business model canvas approach.
+Presented by Stephen Rudakov from Bosch who manages customer requests from idea to production. This presentation will show you how Bosch approaches product development to ensure your idea can be turned into a production product.
 
 <a name="imc"></a>
 **IMC Pacific &mdash; Introduction to Git from IMC – free Raspberry Pi per team!**
