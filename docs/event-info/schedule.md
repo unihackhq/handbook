@@ -5,7 +5,7 @@ Time    | Event
 9:00am  | Doors open for registration<br />Careers Fair
 11:00am | Opening Ceremony<br />API Talks (Xero, Accenture, IBM, Bosch)
 12:00pm | **HACKING BEGINS**
-12:30pm | [TECH TALKS: "Building the commercial model around your idea" (Bosch)](tech-talks.md#bosch)
+12:30pm | [TECH TALKS: "From concept to production" (Bosch)](tech-talks.md#bosch)
 1:00pm  | [Tech Talk: "Introduction to Git – free Raspberry Pi per team!" (IMC Pacific)](tech-talks.md#imc)
 1:30pm  | Lunch is served
 2:30pm  | [Tech Talk: TDD: Test Driven Development (Thoughtworks)](tech-talks.md#thoughtworks)
