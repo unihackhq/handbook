@@ -62,6 +62,18 @@ Xero is now one of the fastest growing Software as a Service companies globally.
 
 [Visit the website](https://developer.xero.com)
 
+## Jemsoft MonocularAPI
+
+[Jemsoft](http://jemsoft.co/) is a computer vision and machine learning company providing industry leading technology to global enterprise and developers. Until now, all of the current offerings are either extremely  extensible and slow to work with, or very rigid, but offering a simple API. With Jemsoft's Monocular API, anyone can use computer vision and machine learning without spending 6 months learning the ins-and-outs of the latest framework.
+
+[MonocularAPI](http://jemsoft.co/api) is the only user-trainable, extensible, platform agnostic, enterprise grade computer vision API on the market. It’s the computer vision API that gives you total control and  flexibility. You can move your data centre or change your software stack - MonocularAPI works anytime, anywhere.
+
+It doesn't take an expert to train machine learning models. Unlike many other computer vision APIs, MonocularAPI is user trainable, and any user - expert or not - can train machine learning models to identify objects and features using either the Visual Training Lab or the API endpoints available.
+
+MonocularAPI doesn’t constrain you to certain use cases. Whilst we offerer the standard features you’d expect such as face detection, facial recognition, and object tracking, we also expose raw and highly customisable end points such as erosion and dilation - allowing you to chain commands together with our detectors or yours, building your own algorithms.
+
+For more information on how you can use Monocular API, check out our [documentation](http://docs.jemsoft.co/) and our [blog](http://jemsoft.co/blog/). There are cards with 100,000 credit available at the event as well.
+
 ## Other API and data providers
 
 - **[Mashery](http://developer.mashery.com/)**  
