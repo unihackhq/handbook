@@ -1,3 +1,18 @@
 site_name: UNIHACK Handbook
 pages:
-theme: readthedocs
+theme_dir: theme/cinder
+pages:
+  - Home: 'index.md'
+  - Mixer Night: 'mixer-night.md'
+  - Event Info:
+      - Venue: 'event-information/venue.md'
+      - Participant Information: 'event-information/participants.md'
+      - Schedule: 'event-information/schedule.md'
+  - Judging:
+      - Criteria: 'judging/criteria.md'
+      - Guidelines: 'judging/guidelines.md'
+      - DevPost Submission: 'judging/submission.md'
+  - Safety:
+      - Code of Conduct: 'safety/code-of-conduct.md'
+      - Emergency Contacts: 'safety/emergency.md'
+  - Changelog: 'changelog.md'

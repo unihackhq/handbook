@@ -55,8 +55,13 @@ leave the venue if you are under the influence of alcohol.
 
 ## Showers & Toilets
 
-There are showers and toilets at the venue. We strongly encourage competitors to make use of these facilities during the competition. If you are planning to use the shower facilities in the venue, we ask that you take a quick shower to prevent a long wait for the showers.
-If you need directions, please ask a volunteer and they will point you to the right direction.
+There are showers and toilets at the venue. We strongly encourage competitors to
+make use of these facilities during the competition. If you are planning to use
+the shower facilities in the venue, we ask that you take a quick shower to
+prevent a long wait for the showers.
+
+If you need directions, please ask a volunteer and they will point you to the
+right direction.
 
 ## Sleeping
 

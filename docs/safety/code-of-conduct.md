@@ -1,3 +1,5 @@
+# Code of Conduct
+
 UNIHACK Melbourne follows the [Hack Code of Conduct](http://hackcodeofconduct.org/).
 
 All attendees, sponsors, partners, volunteers and staff at our hackathon are

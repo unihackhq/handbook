@@ -1,3 +1,5 @@
+# How to Submit
+
 Like previous years, we require all teams to post their submission on DevPost.
 Our DevPost site can be found at [unihack2017mel.devpost.com](unihack2017mel.devpost.com).
 
@@ -53,6 +55,8 @@ then under your submission click on the "Edit this submission."
 If you require any help, feel free to watch this video provided by DevPost on
 [how to create your submission](https://www.youtube.com/watch?v=vCa7QFFthfU).
 Alternatively, one of the organisers will be able to help you on the day.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vCa7QFFthfU" frameborder="0" allowfullscreen></iframe>
 
 ## Submission Tips
 We suggest you create your submission at the start of the competition. You can

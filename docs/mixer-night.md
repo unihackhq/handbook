@@ -1,3 +1,4 @@
+# Mixer Night
 ![Mixer Night](img/mixernight.png)
 
 Mixer Night returns for another year. It is our way to help competitors find
@@ -13,9 +14,11 @@ If you were thinking about using any APIs or hardware tools in your hack, then
 Mixer Night will give you a head start in planning your wonderfully magical
 hacks.
 
-The Mixer Night begins at 6:30pm on July 25. We ask that each team send at least
-one representative to the event, and that you RSVP before July 15 via this
-[Google Form](https://docs.google.com/forms/d/1aJBPvdur_WMKtMQNfPduOhoVV_XkXCjOWfYB7MLzEQc/viewform/)
+The Mixer Night begins at 6:30pm on July 25. You can RSVP by clicking the below
+link.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScz1DvMXMws_G0AWbski8AV6lRgPC3L6gs7s1ytQWOts3Q4-g/viewform" class="btn btn-primary btn-lg btn-block">RSVP Today</a>
+
 
 ## Location
 
@@ -23,7 +26,7 @@ one representative to the event, and that you RSVP before July 15 via this
 Level 10, 31 Queen Street  
 Melbourne VIC 3000
 
-## Getting There
+### Getting There
 
 The best way is to get public transport or Uber. If you are taking public
 transport, the best method is simply catch the 11, 12, 48 or 109 tram to
