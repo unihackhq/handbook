@@ -1,24 +1,3 @@
 site_name: UNIHACK Handbook
 pages:
-  - Home:
-    - 'UNIHACK Competitor Booklet': 'index.md'
-    - 'Basic Rules': 'basic-rules.md'
-    - 'Free Stuff': 'free-stuff.md'
-  - Event Information:
-    - 'Participant Information': 'event-info/participants.md'
-    - 'Schedule': 'event-info/schedule.md'
-    - 'Tech Talks': 'event-info/tech-talks.md'
-    - 'Venue': 'event-info/venue.md'
-  - APIs and Hardware:
-    - 'Hardware': 'hardware.md'
-    - 'APIs': 'api.md'
-  - Other Events:
-    - 'Mixer Night (July 26)': 'mixer-night.md'
-  - Judging:
-      - 'Judging Information': 'judging.md'
-  - Submission:
-      - 'How to Submit': 'submission.md'
-  - Safety:
-    - 'Code of Conduct': 'safety/code-of-conduct.md'
-    - 'Emergency Contacts': 'safety/emergency.md'
 theme: readthedocs

@@ -1,33 +1,33 @@
 ## The Organisers
 
-**Hugo Muller-Downing**  
-0403 722 054
+**Robert Koch**  
+0434 637 097
 
 **Terence Huynh**  
 0401 277 108
 
-**Sophia Huynh (grievance officer)**  
+**Sophia Huynh**  
 0469 332 498
 
-**Lee Hatton (grievance officer)**  
-0432 943 491
+**Ghina Yashar**  
+0426 980 956
 
 ## Hospital
 
 The nearest 24-hour emergency hospital from the venue is:
 
-  **The Royal Melbourne Hospital**  
-  300 Grattan St, Parkville VIC 3050  
-  03 9342 7000  
-  [thermh.org.au](thermh.org.au)
+  **St Vincent's Hospital**  
+  41 Victoria Parade, Fitzroy VIC 3065  
+  (03) 9231 2211  
+  [svhm.org.au](svhm.org.au)
 
 ## Police Station
 
 The nearest 24-hour police station from the venue is:
 
-  **Melbourne North Police Station**  
-  36 Wreckyn Street, North Melbourne VIC 3051  
-  03 8379 0800
+  **Melbourne East Police Station**  
+  226 Flinders Ln, Melbourne VIC 3000  
+  (03) 9637 1100
 
 ## Emergency Contacts
 
