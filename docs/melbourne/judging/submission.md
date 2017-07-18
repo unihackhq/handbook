@@ -1,7 +1,7 @@
-# How to Submit
+# Submission
 
 Like previous years, we require all teams to post their submission on DevPost.
-Our DevPost site can be found at [unihack2017mel.devpost.com](unihack2017mel.devpost.com).
+Our DevPost site can be found at [unihack2017mel.devpost.com](https://unihack2017mel.devpost.com).
 
 You must submit your project on DevPost by 12pm on Sunday August 6.
 Otherwise, your project may not be considered for judging. You will be notified
@@ -21,6 +21,8 @@ You must also fill in the required fields with your DevPost submission to help
 us speed up the judging process. The information you provide will be used to
 create summary cards for the judges, allowing you to focus on the more important
 things during your pitch.
+
+<a href="https://unihack2017mel.devpost.com" class="btn btn-primary btn-lg btn-block">Submit your project</a>
 
 ## Video
 

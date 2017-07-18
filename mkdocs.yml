@@ -10,11 +10,12 @@ pages:
         - Venue: 'melbourne/event-information/venue.md'
         - Participant Information: 'melbourne/event-information/participants.md'
         - Schedule: 'melbourne/event-information/schedule.md'
+        - Rules: 'melbourne/event-information/rules.md'
       - Judging:
-        - Criteria: 'melbourne/judging/criteria.md'
-        - Guidelines: 'melbourne/judging/guidelines.md'
+        - Guidelines/Criteria: 'melbourne/judging/index.md'
         - DevPost Submission: 'melbourne/judging/submission.md'
       - Safety:
         - Code of Conduct: 'melbourne/safety/code-of-conduct.md'
         - Emergency Contacts: 'melbourne/safety/emergency.md'
+  - Sydney: 'sydney/index.md'
   - Changelog: 'changelog.md'

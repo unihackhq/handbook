@@ -6,8 +6,6 @@ Welcome to the UNIHACK Competitor Handbook. This handbook will contain everythin
 you need to know about this year's competition - including schedule, submission
 process and safety information.
 
-You are currently reading **v2.0-rc.01** of the UNIHACK Competitor Handbook.
-
 You will be provided a printed version of the booklet on the day. While every
 effort has been made to ensure the printed and online versions are the same at
 the time of printing, changes do happen and you will be notified of any changes
@@ -32,12 +30,10 @@ anonymous.**
 
 - [Where can I find the Code of Conduct?](safety/code-of-conduct.md)
 
-- [What are the rules of UNIHACK?](basic-rules.md)
-
-- [What is the judging criteria for UNIHACK this year?](judging/judging.md)
+- [What is the judging criteria for UNIHACK this year?](judging/index.md)
 
 - [How do I submit my project?](judging/submission.md)
 
-- [How do I get to the venue?](event-info/venue.md#how-do-i-get-there)
+- [How do I get to the venue?](event-information/venue.md)
 
-- [Where can I find the schedule?](event-info/schedule.md)
+- [Where can I find the schedule?](event-information/schedule.md)
