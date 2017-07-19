@@ -37,7 +37,8 @@ The UNIHACK Judging Panel will determine all entries based on the following crit
     it work as the creators say? Is it well designed? Our judges will see and/or
     want to use your prototype - so make sure it works!
 
-4.	**Usefulness**
+4.	**Usefulness**  
+
     Is the hack practical? Is it something people would actually use? Does it
     fulfil a real need that people have? While you are not required to prepare a
     business plan, your app should have an audience identified.
