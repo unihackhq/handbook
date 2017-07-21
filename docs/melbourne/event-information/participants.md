@@ -3,7 +3,7 @@
 ## Arrival
 
 All participants should aim to arrive between 9:00am and 10:00am on Saturday
-July 30. This allows us to get you registered and collect some cool swag from
+August 5. This allows us to get you registered and collect some cool swag from
 our sponsors.
 
 There will also be a Careers Fair, where you can ask questions from some
@@ -17,6 +17,7 @@ organisers to communicate to all attendees, and allow you to have a way to
 communicate with your team and mentors.
 
 You can use the following channels for specific purposes:
+
 - #general-questions general questions for competitors, mentors or organising
 committee
 - #random post some dank memes
@@ -112,11 +113,20 @@ that this year, we have teamed up with Red Bull to provide you with an unlimited
 supply of free energy drinks for the entire duration of the competition!
 
 Furthermore, we ask that you do not bring strong-smelling or pungent food to the
-venue. Please also ensure that any containers that you bring are be clearly
-labelled with your name.
+venue. Please also ensure that any containers that you bring are clearly
+labelled with your name. 
 
 ## Social Media and Photography
 
 We strongly encourage everyone to post messages and images on social media
 during UNIHACK 2017. We ask that you use the hashtag #UNIHACK2017. Please
-respect people’s wishes if they do not wish to be photograph.
+respect people’s wishes if they do not wish to be photographed.
+
+## Ticket Sales
+
+If you are no longer able to participate at UNIHACK Melbourne 2017, we 
+recommend that you join the Facebook group [UNIHACKers](https://facebook.com/groups/unihackers)
+to create a post advertising your tickets. This is the page that we 
+redirect members of our ticket waitlist to, meaning that you are more likely 
+to find a buyer there than anywhere else.
+
