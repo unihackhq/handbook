@@ -18,12 +18,12 @@ communicate with your team and mentors.
 
 You can use the following channels for specific purposes:
 
-- #general-questions general questions for competitors, mentors or organising
+- `#general-questions` general questions for competitors, mentors or organising
 committee
-- #random post some dank memes
-- #ask-a-mentor ask mentors a question
-- #software-questions ask software specific questions
-- #hardware-questions ask software specific questions
+- `#random` post some dank memes
+- `#ask-a-mentor` ask mentors a question
+- `#software-questions` ask software specific questions
+- `#hardware-questions` ask hardware specific questions
 
 Teams can also create private channels so they can communicate with their team
 members.
