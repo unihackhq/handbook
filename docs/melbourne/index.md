@@ -36,4 +36,6 @@ anonymous.**
 
 - [How do I get to the venue?](event-information/venue.md)
 
+- [Where can I find information about tech talks?](event-information/tech-talks.md)
+
 - [Where can I find the schedule?](event-information/schedule.md)
