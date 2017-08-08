@@ -18,5 +18,19 @@ pages:
       - Safety:
         - Code of Conduct: 'melbourne/safety/code-of-conduct.md'
         - Emergency Contacts: 'melbourne/safety/emergency.md'
-  - Sydney: 'sydney/index.md'
+  - Sydney:
+        - Home: 'sydney/index.md'
+        - Event Info:
+            - Venue: 'sydney/event-information/venue.md'
+            - Participant Information: 'sydney/event-information/participants.md'
+            - Schedule: 'sydney/event-information/schedule.md'
+            - Hardware: 'sydney/event-information/hardware.md'
+            - Tech Talks: 'sydney/event-information/tech-talks.md'
+            - Rules: 'sydney/event-information/rules.md'
+        - Judging:
+            - Guidelines/Criteria: 'sydney/judging/index.md'
+            - DevPost Submission: 'sydney/judging/submission.md'
+        - Safety:
+            - Code of Conduct: 'sydney/safety/code-of-conduct.md'
+            - Emergency Contacts: 'sydney/safety/emergency.md'
   - Changelog: 'changelog.md'
