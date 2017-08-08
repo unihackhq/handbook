@@ -59,11 +59,6 @@ will be enforcing a time limit each team has with a group of judges. Team will
 have only three minutes with each group of judges, and they will have a
 timekeeper to ensure they keep within that limit.
 
-The judges will have access to summary cards that will be created using the
-information you provided with your DevPost submission. This means that you can
-focus less on the technical details of your project, and more on demonstrating
-your project in action.
-
 If you failed to submit the required information with your project, you should
 expect the judges to ask additional questions which may take up more of your
 pitch time.
