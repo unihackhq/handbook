@@ -28,14 +28,13 @@ committee
 Teams can also create private channels so they can communicate with their team
 members.
 
-To create an account with Slack, visit <!-- TODO add link -->
+To create an account with Slack, visit [http://bit.ly/unislack](http://bit.ly/unislack)
 and sign up with your email address. You should get an invite to join the
 UNIHACKers Slack group.
 
 ## Tech Talks
 
-Tech talks will be
-<!-- TODO times -->
+Tech talks will be running in the main event area from 10:20AM through to 12:40PM.
 
 ## Smoking and Alcohol
 

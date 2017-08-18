@@ -8,13 +8,6 @@ regulations and for everyone's safety.
 
 Soldering is not allowed at the event venue.
 
-## Glue/Painting
-If your project requires intense gluing, adhesive, or painting you must do this
-[LOCATION] (using acrylic and water-based paint is fine inside). There are a lot of people inside in a building not designed to ventilate fumes so this is a very important point.
-<!-- TODO figure out a gluing location -->
-
-No eating or drinking while gluing, soldering, painting, or anything else where your food can easily be contaminated. (FYI solder, paint, and glue contains carcinogens, poisons, and other bad things to have floating around you during a hackathon)
-
 ## Safety
 It should go without saying that if you are soldering, painting, or doing anything with a high current or heavy objects that you do so not intoxicated or under the influence of any substance.
 

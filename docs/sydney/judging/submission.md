@@ -3,7 +3,9 @@
 Like previous years, we require all teams to post their submission on DevPost.
 Our DevPost site can be found at [unihack2017syd.devpost.com](https://unihack2017syd.devpost.com).
 
-You must submit your project on DevPost by 1pm on Sunday August 20.
+Your project must be in DevPost by 5pm on Saturday 19 August. At this stage you will only need to add
+your team name, team members and a oneliner about your project.
+You must submit your project with all details added on DevPost by 1pm on Sunday August 20.
 Otherwise, your project may not be considered for judging. You will be notified
 by one of the organisers if your project is not on DevPost beforehand.
 
@@ -38,7 +40,7 @@ us for marketing and promotion of future UNIHACK competitions.
 
 ## How to submit via DevPost
 
-If you haven't already register yourself on our DevPost page, you will need to
+If you haven't already registered yourself on our DevPost page, you will need to
 click on the "Register for this hackathon" button. You will be asked to sign in
 or create a new DevPost account.
 

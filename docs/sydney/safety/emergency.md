@@ -4,10 +4,10 @@
 
 | Name | Phone |
 | --- | --- |
-| **Rayen Magpantay** | 04XX XXX XXX |
-| **Sarah Ni** | 04XX XXX XXX |
 | **Julia Wong** | 0413 939 919 |
 | **Dan Dickinson** | 0424 964 422 |
+| **Sarah Ni** | 0404 447 956 |
+| **Rayen Magpantay** | 0466 590 606 |
 
 ## Hospital
 
