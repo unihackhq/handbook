@@ -1,4 +1,4 @@
-# UNIHACK 2017 Melbourne Competitor Booklet
+# UNIHACK 2018 Melbourne Competitor Booklet
 
 ## About This Document
 

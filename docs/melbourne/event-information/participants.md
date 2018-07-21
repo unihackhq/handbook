@@ -1,44 +1,24 @@
 # Participant Information
 
+## The Gist
+
+To give you a general idea of how to prepare for UNIHACK, here are the most basic instructions:
+
+1.  Build a prototype. It can be purely software or involving hardware - your choice.
+
+2.  There is no theme. You can come up with any idea for any problem in any field. All hacks are accepted, be it an innovative solution or a simple game. Be creative.
+
+3.  Eyes on the prize. If you’re aiming for the main prize, then you should know that the judging criteria is originality, technical difficulty, design and usefulness (detailed in page 13). Otherwise, you may choose to build a hack specifically aimed towards one of the category or sponsor prizes, so make sure to familiarise yourself with all the available prizes beforehand.
+
 ## Arrival
 
 All participants should aim to arrive between 9:00am and 10:00am on Saturday
-August 5. This allows us to get you registered and collect some cool swag from
+July 28. This allows us to get you registered and collect some cool swag from
 our sponsors.
 
 There will also be a Careers Fair, where you can ask questions from some
 of our sponsors about any upcoming internship or graduate programs they may
 have.
-
-## Slack
-
-This year, we are also introducing Slack to all competitors. This will allow the
-organisers to communicate to all attendees, and allow you to have a way to
-communicate with your team and mentors.
-
-You can use the following channels for specific purposes:
-
-- `#general-questions` general questions for competitors, mentors or organising
-committee
-- `#random` post some dank memes
-- `#ask-a-mentor` ask mentors a question
-- `#software-questions` ask software specific questions
-- `#hardware-questions` ask hardware specific questions
-
-Teams can also create private channels so they can communicate with their team
-members.
-
-To create an account with Slack, visit [https://slack.unihack.net/](https://slack.unihack.net/)
-and sign up with your email address. You should get an invite to join the
-UNIHACKers Slack group.
-
-## Tech Talks
-
-Tech talks will be every 30 minutes on Saturday about relevant topics such as
-IOT, Automation, etc in the Plenary Space. Talks run for 20 minutes.
-
-A great way to learn something new or gain a new perspective on the technology
-you are using in your hack.
 
 ## Smoking and Alcohol
 
@@ -66,16 +46,11 @@ right direction.
 
 ## Sleeping
 
-If you plan to sleep at the venue, please bring your own sleeping bag, pillow
-and other sleeping equipment. There will be a designated mixed-gender area for
-people to sleep. We ask that competitors that plan to work late at night to
-refrain from making any loud noises between 1am and 6am.
+If you plan to sleep at the venue, please bring your own sleeping bag, pillow and other sleeping equipment. As the lights in the entire venue are controlled centrally, there will not be a designated dark area for sleeping; and while we will be providing a limited number of eye masks you can use for optimal comfort, we do advise that you try to bring your own.
 
-If you prefer to take a shower at home or sleep on a bed, then you will be given
-the option to leave for the night between 8:00pm and 10:00pm on Saturday August 5.
-Please be aware that once you leave the premises for the night, you cannot work
-on any part of your project from home or hotel. You must also return to the
-venue between 6:00am and 9:00am on Sunday morning.
+We ask that competitors that plan to work late at night to refrain from making any loud noises between 1am and 6am.
+
+If you prefer to take a shower at home or sleep on a bed, you will be given the option to leave for the night between 8:00pm and 10:00pm on Saturday night. Please be aware that once you leave the premises for the night, you cannot work on any part of your project from home or hotel. You must also return to the venue between 6:00am and 9:00am on Sunday morning.
 
 ## Leaving the Venue
 
@@ -85,9 +60,9 @@ You are not allowed to leave and return to the venue during the night without
 the permission of the organisers, or under the following exceptions:
 
 - Leaving to return home (between 8pm and 10pm)
--	Leaving to have a smoke
--	Family or medical emergencies
--	Quitting the competition
+- Leaving to have a smoke
+- Family or medical emergencies
+- Quitting the competition
 
 In all cases, you will be required to hand in your badge to the front desk
 before leaving. This will ensure we know that you have left the venue. In
@@ -101,10 +76,11 @@ create during UNIHACK 2017 belongs to you. We may use your project to assist us
 with marketing in future years, but we will always seek to permission from you
 and/or your team in order to do so.
 
-## Hardware
+## Tools and Hardware
 
-There is a dedicated soldering space in the Beer Garden at the Gazebo. Due to
-fire safety regulations, we are not able to let competitors solder inside.
+If you are planning on using any hardware materials or tools in your project, please refer to the [Hardware](melbourne/hardware.md) section of this handbook for our safety rules and precautions.
+
+Moreover, a number of software and hardware tools will be supplied by our sponsor companies for participants to use on the day. The [Provided Tools](melbourne/provided-tools.md) section of this handbook will have the full list of what’s provided.
 
 ## BYO Food & Drink
 
@@ -114,19 +90,8 @@ supply of free energy drinks for the entire duration of the competition!
 
 Furthermore, we ask that you do not bring strong-smelling or pungent food to the
 venue. Please also ensure that any containers that you bring are clearly
-labelled with your name. 
+labelled with your name.
 
 ## Social Media and Photography
 
-We strongly encourage everyone to post messages and images on social media
-during UNIHACK 2017. We ask that you use the hashtag #UNIHACK2017. Please
-respect people’s wishes if they do not wish to be photographed.
-
-## Ticket Sales
-
-If you are no longer able to participate at UNIHACK Melbourne 2017, we 
-recommend that you join the Facebook group [UNIHACKers](https://facebook.com/groups/unihackers)
-to create a post advertising your tickets. This is the page that we 
-redirect members of our ticket waitlist to, meaning that you are more likely 
-to find a buyer there than anywhere else.
-
+We strongly encourage everyone to post messages and images on social media during UNIHACK 2018. We ask that you use the hashtag #UNIHACK2018. Please respect people’s wishes if they do not wish to be photographed.

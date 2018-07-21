@@ -5,6 +5,8 @@ pages:
   - Melbourne:
       - Home: 'melbourne/index.md'
       - Mixer Night: 'melbourne/mixer-night.md'
+      - Sponsors: 'melbourne/sponsors.md'
+      - Provided Tools: 'melbourne/tools.md'
       - Event Info:
         - Venue: 'melbourne/event-information/venue.md'
         - Participant Information: 'melbourne/event-information/participants.md'
