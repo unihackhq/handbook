@@ -82,7 +82,8 @@ We continue to grow rapidly, so there are no shortage of positions for those wan
     <img src="https://unihack.net/img/sponsors/xero.png" alt="Xero" style="max-width: 300px">
 </a>
 
+We started Xero to change the game for small business. Our beautiful cloud-based accounting software connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration. We’re proud to be helping over 1 million subscribers worldwide transform the way they do business. And we’re just getting started.
 
-Software is changing the world, and we’re at the centre of it all. With a customer list that reads like a who's who in tech, and a highly disruptive business model, we’re advancing the art of team collaboration with products like Jira, Confluence, Bitbucket, Trello, and now Stride. Driven by honest values, an amazing culture, and consistent revenue growth, we’re out to unleash the potential of every team. From Amsterdam and Austin to Sydney and San Francisco, we’re looking for people who are powered by passion and eager to do the best work of their lives in a highly autonomous yet collaborative, no B.S. environment.
+Founded in 2006 in New Zealand, Xero is one of the fastest growing software as a service companies globally. We lead the New Zealand, Australian, and United Kingdom cloud accounting markets, employing a world-class team of more than 2,000 people. Forbes identified Xero as the World’s Most Innovative Growth Company in 2014 and 2015.
 
-[xero.com](https://xero.com)
+Small business makes the world go round – it’s the heart of the global economy. We want millions of small businesses to thrive through better tools, information and connections. Like all great challenges, we can’t do it by ourselves: we work closely with our customers, partners, and other friends to push innovation forward, turning Xero into the online business platform for the world.
