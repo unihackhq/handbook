@@ -1,7 +1,7 @@
 site_name: UNIHACK Handbook
 theme:
   custom_dir: theme/cinder/
-docs_dir: melbourne/
+docs_dir: docs/melbourne
 pages:
   - Home: 'index.md'
   - Mixer Night: 'mixer-night.md'
