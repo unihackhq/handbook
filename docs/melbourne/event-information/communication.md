@@ -11,22 +11,22 @@ This year at UNIHACK, we're introducing a brand new platform that allows competi
 
 The app will also be used by the judges to gather basic information about your project prior to judging and to connect competitors with mentors who will be walking around during the day - so the more potent the information you submit on the app, the more help you can receive during the event.
 
-The app is available on both Android and iOS on their respective app stores, or you can visit unihack.net for quick links.
+The app is available on both Android and iOS on their respective app stores.
 
 ## Slack
 
-This year, we are also introducing Slack to all competitors. This will allow the
-organisers to communicate to all attendees, and allow you to have a way to
-communicate with your team and mentors.
+We use Slack throughout the competition to allow the organisers to communicate
+important messages to attendees, and allows you to have a way to communicate with
+your team and mentors.
 
 You can use the following channels for specific purposes:
 
 - `#general-questions` general questions for competitors, mentors or organising
   committee
-- `#random` post some dank memes
+- `#random` post some hand-crafted memes
 - `#ask-a-mentor` ask mentors a question
-- `#software-questions` ask software specific questions
-- `#hardware-questions` ask hardware specific questions
+- `#software-questions` ask software-specific questions
+- `#hardware-questions` ask hardware-specific questions
 
 Teams can also create private channels so they can communicate with their team
 members.
@@ -34,6 +34,8 @@ members.
 To create an account with Slack, visit [https://slack.unihack.net/](https://slack.unihack.net/)
 and sign up with your email address. You should get an invite to join the
 UNIHACKers Slack group.
+
+<a href="https://slack.unihack.net/" class="btn btn-primary btn-lg btn-block">Join the Slack</a>
 
 ## Snapchat
 
