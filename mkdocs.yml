@@ -1,36 +1,22 @@
 site_name: UNIHACK Handbook
-theme_dir: theme/cinder
+theme:
+  custom_dir: theme/cinder/
+docs_dir: docs/melbourne
 pages:
   - Home: 'index.md'
-  - Melbourne:
-      - Home: 'melbourne/index.md'
-      - Mixer Night: 'melbourne/mixer-night.md'
-      - Event Info:
-        - Venue: 'melbourne/event-information/venue.md'
-        - Participant Information: 'melbourne/event-information/participants.md'
-        - Schedule: 'melbourne/event-information/schedule.md'
-        - Hardware: 'melbourne/event-information/hardware.md'
-        - Tech Talks: 'melbourne/event-information/tech-talks.md'
-        - Rules: 'melbourne/event-information/rules.md'
-      - Judging:
-        - Guidelines/Criteria: 'melbourne/judging/index.md'
-        - DevPost Submission: 'melbourne/judging/submission.md'
-      - Safety:
-        - Code of Conduct: 'melbourne/safety/code-of-conduct.md'
-        - Emergency Contacts: 'melbourne/safety/emergency.md'
-  - Sydney:
-        - Home: 'sydney/index.md'
-        - Event Info:
-            - Venue: 'sydney/event-information/venue.md'
-            - Participant Information: 'sydney/event-information/participants.md'
-            - Schedule: 'sydney/event-information/schedule.md'
-            - Hardware: 'sydney/event-information/hardware.md'
-            - Tech Talks: 'sydney/event-information/tech-talks.md'
-            - Rules: 'sydney/event-information/rules.md'
-        - Judging:
-            - Guidelines/Criteria: 'sydney/judging/index.md'
-            - DevPost Submission: 'sydney/judging/submission.md'
-        - Safety:
-            - Code of Conduct: 'sydney/safety/code-of-conduct.md'
-            - Emergency Contacts: 'sydney/safety/emergency.md'
-  - Changelog: 'changelog.md'
+  - Mixer Night: 'mixer-night.md'
+  - Sponsors: 'sponsors.md'
+  - Provided Tools: 'tools.md'
+  - Event Info:
+    - Venue: 'event-information/venue.md'
+    - Schedule: 'event-information/schedule.md'
+    - Participant Info: 'event-information/participants.md'
+    - Communication Tools: 'event-information/communication.md'
+    - Hardware Safety: 'event-information/hardware.md'
+    - Rules: 'event-information/rules.md'
+  - Judging:
+    - Guidelines/Criteria: 'judging/index.md'
+    - DevPost Submission: 'judging/submission.md'
+  - Safety:
+    - Code of Conduct: 'safety/code-of-conduct.md'
+    - Emergency Contacts: 'safety/emergency.md'
