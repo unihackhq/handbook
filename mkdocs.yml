@@ -1,17 +1,13 @@
 site_name: UNIHACK Handbook
 theme:
   custom_dir: theme/cinder/
-docs_dir: docs/melbourne
+docs_dir: docs/sydney
 pages:
   - Home: 'index.md'
-  - Mixer Night: 'mixer-night.md'
-  - Sponsors: 'sponsors.md'
-  - Provided Tools: 'tools.md'
   - Event Info:
     - Venue: 'event-information/venue.md'
     - Schedule: 'event-information/schedule.md'
     - Participant Info: 'event-information/participants.md'
-    - Communication Tools: 'event-information/communication.md'
     - Hardware Safety: 'event-information/hardware.md'
     - Rules: 'event-information/rules.md'
   - Judging:
