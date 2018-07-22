@@ -1,7 +1,6 @@
 site_name: UNIHACK Handbook
 theme:
-  name: cinder
-  custom_dir: theme/cinder
+  custom_dir: theme/cinder/
 pages:
   - Home: 'index.md'
   - Melbourne:
