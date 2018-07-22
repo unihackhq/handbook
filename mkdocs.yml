@@ -9,10 +9,10 @@ pages:
       - Provided Tools: 'melbourne/tools.md'
       - Event Info:
         - Venue: 'melbourne/event-information/venue.md'
-        - Participant Information: 'melbourne/event-information/participants.md'
         - Schedule: 'melbourne/event-information/schedule.md'
-        - Hardware: 'melbourne/event-information/hardware.md'
-        - Tech Talks: 'melbourne/event-information/tech-talks.md'
+        - Participant Info: 'melbourne/event-information/participants.md'
+        - Communication Tools: 'melbourne/event-information/communication.md'
+        - Hardware Safety: 'melbourne/event-information/hardware.md'
         - Rules: 'melbourne/event-information/rules.md'
       - Judging:
         - Guidelines/Criteria: 'melbourne/judging/index.md'
