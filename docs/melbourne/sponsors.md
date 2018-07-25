@@ -26,7 +26,7 @@ Telstra Labs is a safe environment where we learn by doing, and can test, trial,
     <img src="https://unihack.net/img/sponsors/accenture.png" alt="Accenture" style="max-width: 300px">
 </a>
 
-At Accenture, we think big. We’re passionate about improving the way the way Australia lives, works, plays and grows, and our five groups (Strategy, Operations, Digital, Technology and Consulting) cover more than 40 industries globally. The experience you'll gain here adds up to more than just an amazing career direction – it’s your opportunity to make your mark on the world.
+At Accenture, we think big. We’re passionate about improving the way the way Australia lives, works, plays and grows, and our five groups (Strategy, Operations, Digital, Technology and Consulting) cover more than 40 industries globally. The experience you’ll gain here adds up to more than just an amazing career direction – it’s your opportunity to make your mark on the world.
 
 A career with Accenture Technology puts you at the heart of innovative technical solutions. Every day, we power world-leading businesses and governments around the globe by solving tech issues, building custom solutions, integrating platforms, and much more
 
@@ -36,7 +36,17 @@ A career with Accenture Technology puts you at the heart of innovative technical
     <img src="https://unihack.net/img/sponsors/atlassian.png" alt="Atlassian" style="max-width: 300px">
 </a>
 
-Software is changing the world, and we’re at the centre of it all. With a customer list that reads like a who's who in tech, and a highly disruptive business model, we’re advancing the art of team collaboration with products like Jira, Confluence, Bitbucket, Trello, and now Stride. Driven by honest values, an amazing culture, and consistent revenue growth, we’re out to unleash the potential of every team. From Amsterdam and Austin to Sydney and San Francisco, we’re looking for people who are powered by passion and eager to do the best work of their lives in a highly autonomous yet collaborative, no B.S. environment
+Software is changing the world, and we’re at the centre of it all. With a customer list that reads like a who’s who in tech, and a highly disruptive business model, we’re advancing the art of team collaboration with products like Jira, Confluence, Bitbucket, Trello, and now Stride. Driven by honest values, an amazing culture, and consistent revenue growth, we’re out to unleash the potential of every team. From Amsterdam and Austin to Sydney and San Francisco, we’re looking for people who are powered by passion and eager to do the best work of their lives in a highly autonomous yet collaborative, no B.S. environment
+
+## [Australia Post](https://auspost.com.au/)
+
+<a href="https://auspost.com.au/">
+    <img src="https://unihack.net/img/sponsors/australiapost.png" alt="Australia Post" style="max-width: 300px">
+</a>
+
+We’re so excited to be a part of UNIHACK. Here at Australia Post, we believe that people are the heart of our business and reflect the diverse community that we reach every day. 
+
+We are all about attracting and retaining talented people who bring a broad range of skills, experiences, leadership styles and capabilities. Our main goal is to help them grow. We want to foster that same sense of optimism and wonder you had when you were younger - and help you use that to push yourself further in your career. 
 
 ## [Bosch](https://www.bosch.com.au/careers/)
 
@@ -46,7 +56,7 @@ Software is changing the world, and we’re at the centre of it all. With a cust
 
 Everyone knows Bosch for something, be it power tools, home appliances or car components. But what many don’t know is that Bosch is an entrepreneurial engineering company at heart. Our founder, Robert Bosch, started out in a small workshop in Germany in 1886 solving the automotive problems of his day. Now, Bosch has nearly 389,000 associates across 150 countries & multiple industries.
 
-o, we’re proud to keep the creativity going with this year’s UNIHACK. Today’s innovation is about keeping simply connected. The tools may have changed since Robert Bosch’s day, but the spirit to invent continues.. That’s why we’re happy to be a gold sponsor.
+So, we’re proud to keep the creativity going with this year’s UNIHACK. Today’s innovation is about keeping simply connected. The tools may have changed since Robert Bosch’s day, but the spirit to invent continues.. That’s why we’re happy to be a gold sponsor.
 
 ## [Infosys](https://www.infosys.com/australia/)
 
