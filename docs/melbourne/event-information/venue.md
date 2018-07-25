@@ -1,6 +1,6 @@
 # Venue
 
-This year's competition will be held at Telstra Gurrowa Innovation Lab,
+This year's competition will be held at Telstra Labs,
 which is located at:
 
 Level 2, 242 Exhibition Street <br>
