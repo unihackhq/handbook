@@ -26,7 +26,7 @@ Telstra Labs is a safe environment where we learn by doing, and can test, trial,
     <img src="https://unihack.net/img/sponsors/accenture.png" alt="Accenture" style="max-width: 300px">
 </a>
 
-At Accenture, we think big. We’re passionate about improving the way the way Australia lives, works, plays and grows, and our five groups (Strategy, Operations, Digital, Technology and Consulting) cover more than 40 industries globally. The experience you'll gain here adds up to more than just an amazing career direction – it’s your opportunity to make your mark on the world.
+At Accenture, we think big. We’re passionate about improving the way the way Australia lives, works, plays and grows, and our five groups (Strategy, Operations, Digital, Technology and Consulting) cover more than 40 industries globally. The experience you’ll gain here adds up to more than just an amazing career direction – it’s your opportunity to make your mark on the world.
 
 A career with Accenture Technology puts you at the heart of innovative technical solutions. Every day, we power world-leading businesses and governments around the globe by solving tech issues, building custom solutions, integrating platforms, and much more
 
@@ -36,7 +36,7 @@ A career with Accenture Technology puts you at the heart of innovative technical
     <img src="https://unihack.net/img/sponsors/atlassian.png" alt="Atlassian" style="max-width: 300px">
 </a>
 
-Software is changing the world, and we’re at the centre of it all. With a customer list that reads like a who's who in tech, and a highly disruptive business model, we’re advancing the art of team collaboration with products like Jira, Confluence, Bitbucket, Trello, and now Stride. Driven by honest values, an amazing culture, and consistent revenue growth, we’re out to unleash the potential of every team. From Amsterdam and Austin to Sydney and San Francisco, we’re looking for people who are powered by passion and eager to do the best work of their lives in a highly autonomous yet collaborative, no B.S. environment
+Software is changing the world, and we’re at the centre of it all. With a customer list that reads like a who’s who in tech, and a highly disruptive business model, we’re advancing the art of team collaboration with products like Jira, Confluence, Bitbucket, Trello, and now Stride. Driven by honest values, an amazing culture, and consistent revenue growth, we’re out to unleash the potential of every team. From Amsterdam and Austin to Sydney and San Francisco, we’re looking for people who are powered by passion and eager to do the best work of their lives in a highly autonomous yet collaborative, no B.S. environment
 
 ## [Australia Post](https://auspost.com.au/)
 
