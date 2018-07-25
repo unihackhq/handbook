@@ -56,7 +56,7 @@ We are all about attracting and retaining talented people who bring a broad rang
 
 Everyone knows Bosch for something, be it power tools, home appliances or car components. But what many don’t know is that Bosch is an entrepreneurial engineering company at heart. Our founder, Robert Bosch, started out in a small workshop in Germany in 1886 solving the automotive problems of his day. Now, Bosch has nearly 389,000 associates across 150 countries & multiple industries.
 
-o, we’re proud to keep the creativity going with this year’s UNIHACK. Today’s innovation is about keeping simply connected. The tools may have changed since Robert Bosch’s day, but the spirit to invent continues.. That’s why we’re happy to be a gold sponsor.
+So, we’re proud to keep the creativity going with this year’s UNIHACK. Today’s innovation is about keeping simply connected. The tools may have changed since Robert Bosch’s day, but the spirit to invent continues.. That’s why we’re happy to be a gold sponsor.
 
 ## [Infosys](https://www.infosys.com/australia/)
 
